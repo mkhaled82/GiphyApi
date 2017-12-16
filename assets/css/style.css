@@ -5,27 +5,17 @@
 	margin-top: 20px;
 
 	font-weight: bold;
-	font-family: 'Baloo Tamma', cursive;
+	font-family: 'Raleway', sans-serif;
 }
 
 
 body{
-	background-color: #fff9e6;
-	/*background-image: url("../images/pawprint_background.png");*/
+	background-color: #ffffff;
 
-	font-family: 'Baloo Tamma', cursive;
-	color: #000000;
+	
+	color: red;
 }
 
-html{
-	border: 30px solid;
-	border-image: url("../images/pawprint_background.png") 30 round;
-
-	/*border: 2px solid;*/
-	border-color: #ac7339;
-
-	min-height: 100%;
-}
 
 #animaltastic{
 	font-style: italic;
@@ -38,7 +28,7 @@ html{
 }
 
 #animal_input_box{
-	float: right;
+	margin-top: 20px;
 
 	padding-right: 10%;
 }
@@ -65,7 +55,7 @@ label{
 	padding-left: 10px;
 	padding-right: 10px;
 
-	border-radius: 5px;
+	
 
 	margin-top: 10px;
 }
